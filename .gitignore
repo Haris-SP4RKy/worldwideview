@@ -62,7 +62,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 !.env
 
 # vercel
@@ -87,3 +86,4 @@ packages/*/dist/
 
 # proprietary extracted services
 packages/wwv-data-engine/
+config.bat
